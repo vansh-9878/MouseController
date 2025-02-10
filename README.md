@@ -41,9 +41,6 @@ pip install opencv-python numpy pyautogui mediapipe
 - 🖥️ Support multiple monitors.
 
 
-## 📝 License
-This project is **open-source** and available under the **GNU License**.
-
 ---
 💡 *Pull requests and feature suggestions are welcome!* 🚀
 
